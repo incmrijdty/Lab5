@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "The Emberwood Chronicle",
+    "subtitle": "Create your adventurer and choose how the story looks and sounds.",
+    "nameLabel": "Adventurer name",
+    "namePlaceholder": "Enter a name",
+    "classLabel": "Choose a class",
+    "classes": {
+      "warrior": "Warrior",
+      "mage": "Mage",
+      "ranger": "Ranger"
+    },
+    "languageLabel": "Game language",
+    "themeLabel": "Color theme",
+    "lightTheme": "Light",
+    "darkTheme": "Dark",
+    "startButton": "Begin adventure",
+    "nameRequired": "Enter a name to continue.",
+    "languageError": "The language could not be changed. Please try again."
+  },
+  "game": {
+    "title": "The Whispering Forest",
+    "greeting": "Welcome, {playerName}! You have {hp} health points.",
+    "intro": "At dusk, you reach an ancient forest. A moss-covered path leads to ruined towers, while the river trail disappears beneath a veil of mist. Somewhere nearby, a silver bell rings once.",
+    "classLabel": "Class",
+    "classes": {
+      "warrior": "Warrior",
+      "mage": "Mage",
+      "ranger": "Ranger"
+    },
+    "hpLabel": "Health",
+    "inventoryLabel": "Inventory",
+    "items": {
+      "ironSword": "Iron sword",
+      "woodenShield": "Wooden shield",
+      "healthPotion": "A health potion",
+      "woodenStaff": "Wooden staff",
+      "spellbook": "Spellbook",
+      "manaPotion": "Mana potion",
+      "shortBow": "Short bow",
+      "arrows": "Quiver of arrows",
+      "fieldKit": "Field kit",
+      "silverKey": "A silver key",
+      "riverHerb": "A river herb"
+    },
+    "ruinsChoice": "Follow the path to the ruins",
+    "riverChoice": "Take the misty river trail",
+    "results": {
+      "ruins": "Inside the ruins, you discover a silver key hidden beneath a loose stone. The bell rings again from deeper in the forest.",
+      "river": "A troll leaps from the mist and wounds you before fleeing. You lose 3 health points, but find a healing herb by the river."
+    },
+    "newGameButton": "Create another adventurer"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Kroniki Żarowego Boru",
+    "subtitle": "Stwórz postać i wybierz wygląd oraz język opowieści.",
+    "nameLabel": "Imię bohatera",
+    "namePlaceholder": "Wpisz imię",
+    "classLabel": "Wybierz klasę",
+    "classes": {
+      "warrior": "Wojownik",
+      "mage": "Mag",
+      "ranger": "Łowca"
+    },
+    "languageLabel": "Język gry",
+    "themeLabel": "Motyw kolorystyczny",
+    "lightTheme": "Jasny",
+    "darkTheme": "Ciemny",
+    "startButton": "Rozpocznij przygodę",
+    "nameRequired": "Wpisz imię, aby kontynuować.",
+    "languageError": "Nie udało się zmienić języka. Spróbuj ponownie."
+  },
+  "game": {
+    "title": "Szept Lasu",
+    "greeting": "Witaj, {playerName}! Zdrowie: {hp} HP.",
+    "intro": "O zmierzchu docierasz do pradawnego lasu. Pokryta mchem ścieżka prowadzi do ruin wież, a trakt nad rzeką ginie we mgle. Gdzieś w pobliżu raz odzywa się srebrny dzwon.",
+    "classLabel": "Klasa",
+    "classes": {
+      "warrior": "Wojownik",
+      "mage": "Mag",
+      "ranger": "Łowca"
+    },
+    "hpLabel": "Zdrowie",
+    "inventoryLabel": "Ekwipunek",
+    "items": {
+      "ironSword": "Żelazny miecz",
+      "woodenShield": "Drewniana tarcza",
+      "healthPotion": "Mikstura zdrowia",
+      "woodenStaff": "Drewniana laska",
+      "spellbook": "Księga zaklęć",
+      "manaPotion": "Mikstura many",
+      "shortBow": "Krótki łuk",
+      "arrows": "Kołczan ze strzałami",
+      "fieldKit": "Zestaw podróżny",
+      "silverKey": "Srebrny klucz",
+      "riverHerb": "Zioło znad rzeki"
+    },
+    "ruinsChoice": "Podążaj ścieżką do ruin",
+    "riverChoice": "Wybierz zamglony trakt nad rzeką",
+    "results": {
+      "ruins": "W ruinach znajdujesz srebrny klucz ukryty pod luźnym kamieniem. Z głębi lasu ponownie dobiega dźwięk dzwonu.",
+      "river": "Z mgły wyskakuje troll, rani cię i ucieka. Tracisz 3 punkty życia, ale nad rzeką znajdujesz lecznicze zioło."
+    },
+    "newGameButton": "Stwórz kolejnego bohatera"
+  }
+}
